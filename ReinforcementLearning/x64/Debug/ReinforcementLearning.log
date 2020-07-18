@@ -1,0 +1,30 @@
+﻿  AHC1D.cpp
+C:\Users\radix\OneDrive\Pulpit\Uni\ReinforcementLearning\ReinforcementLearning\ReinforcementLearning\Source\AHC1D.cpp(72,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  AHC1D2Failure.cpp
+C:\Users\radix\OneDrive\Pulpit\Uni\ReinforcementLearning\ReinforcementLearning\ReinforcementLearning\Source\AHC1D2Failure.cpp(65,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  AHC2D.cpp
+C:\Users\radix\OneDrive\Pulpit\Uni\ReinforcementLearning\ReinforcementLearning\ReinforcementLearning\Source\AHC2D.cpp(35,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\radix\OneDrive\Pulpit\Uni\ReinforcementLearning\ReinforcementLearning\ReinforcementLearning\Source\AHC2D.cpp(172,54): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\radix\OneDrive\Pulpit\Uni\ReinforcementLearning\ReinforcementLearning\ReinforcementLearning\Source\AHC2D.cpp(245,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\radix\OneDrive\Pulpit\Uni\ReinforcementLearning\ReinforcementLearning\ReinforcementLearning\Source\AHC2D.cpp(250,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Main.cpp
+  QLearning1D.cpp
+C:\Users\radix\OneDrive\Pulpit\Uni\ReinforcementLearning\ReinforcementLearning\ReinforcementLearning\Source\QLearning1D.cpp(60,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  QLearning1D2Failure.cpp
+C:\Users\radix\OneDrive\Pulpit\Uni\ReinforcementLearning\ReinforcementLearning\ReinforcementLearning\Source\QLearning1D2Failure.cpp(53,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  QLearning2D.cpp
+C:\Users\radix\OneDrive\Pulpit\Uni\ReinforcementLearning\ReinforcementLearning\ReinforcementLearning\Source\QLearning2D.cpp(35,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\radix\OneDrive\Pulpit\Uni\ReinforcementLearning\ReinforcementLearning\ReinforcementLearning\Source\QLearning2D.cpp(152,54): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\radix\OneDrive\Pulpit\Uni\ReinforcementLearning\ReinforcementLearning\ReinforcementLearning\Source\QLearning2D.cpp(223,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\radix\OneDrive\Pulpit\Uni\ReinforcementLearning\ReinforcementLearning\ReinforcementLearning\Source\QLearning2D.cpp(228,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Sarsa1D.cpp
+C:\Users\radix\OneDrive\Pulpit\Uni\ReinforcementLearning\ReinforcementLearning\ReinforcementLearning\Source\Sarsa1D.cpp(60,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Sarsa1D2Failure.cpp
+C:\Users\radix\OneDrive\Pulpit\Uni\ReinforcementLearning\ReinforcementLearning\ReinforcementLearning\Source\Sarsa1D2Failure.cpp(53,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Sarsa2D.cpp
+C:\Users\radix\OneDrive\Pulpit\Uni\ReinforcementLearning\ReinforcementLearning\ReinforcementLearning\Source\Sarsa2D.cpp(35,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\radix\OneDrive\Pulpit\Uni\ReinforcementLearning\ReinforcementLearning\ReinforcementLearning\Source\Sarsa2D.cpp(174,54): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\radix\OneDrive\Pulpit\Uni\ReinforcementLearning\ReinforcementLearning\ReinforcementLearning\Source\Sarsa2D.cpp(247,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\radix\OneDrive\Pulpit\Uni\ReinforcementLearning\ReinforcementLearning\ReinforcementLearning\Source\Sarsa2D.cpp(252,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  ReinforcementLearning.vcxproj -> C:\Users\radix\OneDrive\Pulpit\Uni\ReinforcementLearning\ReinforcementLearning\x64\Debug\ReinforcementLearning.exe
